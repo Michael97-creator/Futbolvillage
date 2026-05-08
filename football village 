@@ -1,0 +1,57 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <title>footballvilage</title>
+    </head>
+    <body style="background-color:black;">
+      <h1 style="text-align:center; color:white; font-family:arial,sans-serif; font-size:40px">WELCOME TO THE VILLAGE OF FOOTBALL</h1>
+      <header>
+        <nav>
+      <p style="float:right">
+        <a href="#">Home</a> |
+        <a href="#">News</a> |
+        <a href="#">Betting</a> |
+        <a href="#">About</a> |
+        <a href="#">Contact us</a> |
+        <a href="#">Terms of Services</a> |
+        <a href="#">Privacy Policy</a> |
+        </p>
+        </nav>
+        </header>
+        <br/>
+        <br/>
+        <hr/>
+      <p style="text-align:center;color:red;font-family:arial,sans-serif;font-size:20px">Everything dey here for our village</p>
+      <button style="color:green;font-size:30px">check below to see for yourself</button>
+      <ol style="color:blue">
+        <li>football latest news</li>
+        <ul style="color:gold">
+          <li>jokes</li>
+          <li>stories</li>
+          <li>games</li>
+        </ul>
+        <li>football banter</li>
+        <li>football prayer</li>
+        <li>football wrestling</li>
+        <li>football loyalty</li>
+      </ol>
+      <h1 style="text-align:center; color:yellow;font-family:new times roman,sans-serif; font-size:40px">YOUR MONEY NO DEY MiSS ROAD FOR OUR VILLAGE</h1>
+      <button style="background-color:silver; font-size:30px; color:red">check here if you want to bring the bookies down</button>
+      <ol style="color:green">
+        <li>football betting</li>
+        <ul style="color:brown">
+          <li>straight win</li>
+          <li>double chance</li>
+          <li>corect score</li>
+          <li>goal and corner</li>
+        </ul>
+        <li>football analysis</li>
+        <li>sure winning prediction</li>
+        <li>top rollover picks</li>
+      </ol>
+      <footer>
+        <h2 style="color: white"> &copy; Copyright MICHAEL 2026| All Rights Reserved </h2>
+        <a href="http://www.soccernet.com">for more info visit soccernet</a>
+      </footer>
+    </body>
+  </html>
